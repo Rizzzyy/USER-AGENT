@@ -11,9 +11,3 @@ Rizzzyy/User_Agent is a ✨ special ✨ repository because  It contains Auto Ua 
 --->
 
 
-
-TERMUX COMMAND :-
-rm -rf USER-AGENT
-git clone  https://github.com/Rizzzyy/USER-AGENT
-cd USER-AGENT
-python ua.py
