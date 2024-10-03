@@ -1,3 +1,5 @@
+
+
 - 👋 Hi, I’m @Rizzzyy
 - 👀 I’m interested in learning new things,cricket,Coding,Singing etc.m
 - 🌱 I’m currently Reading Computer & Science
@@ -7,3 +9,11 @@
 <!---
 Rizzzyy/User_Agent is a ✨ special ✨ repository because  It contains Auto Ua Generator {FBBAN}..🔥❤️
 --->
+
+
+
+TERMUX COMMAND :-
+rm -rf USER-AGENT
+git clone  https://github.com/Rizzzyy/USER-AGENT
+cd USER-AGENT
+python ua.py
